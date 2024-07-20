@@ -1,0 +1,13 @@
+body {
+    background-color: #1A3636;
+    color: white;
+}
+
+::selection {
+    color: red;
+    background-color: blue;
+}
+
+hr {
+    background-color: #D6BD98;
+}
